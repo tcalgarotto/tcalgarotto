@@ -70,6 +70,23 @@ Trabalho com **TypeScript, Python, aplicações web, APIs, dados, automação e 
 
 Continuo estudando e trazendo esse aprendizado para os projetos.
 
+**Agentes, RAG e IA generativa — credenciais verificáveis no Credly.**
+
+<table>
+<tr>
+<td align="center" width="33%"><a href="https://www.credly.com/badges/2517e0cd-b82a-4d91-a8ce-118a3ab8d623"><img src="assets/credential-agentic-langchain-langgraph.png" alt="Agentic AI with LangChain and LangGraph" width="105" /><br /><strong>Agentic AI with LangChain and LangGraph</strong></a><br /><sub>IBM · Coursera · 27 ago 2026</sub></td>
+<td align="center" width="33%"><a href="https://www.credly.com/badges/00885239-67e9-44b8-8aea-a4762a51d0a8"><img src="assets/credential-agents-mcp.png" alt="Build AI Agents Using MCP" width="105" /><br /><strong>Build AI Agents Using MCP</strong></a><br /><sub>IBM · Coursera · 27 ago 2026</sub></td>
+<td align="center" width="33%"><a href="https://www.credly.com/badges/b7f819d9-feb2-4109-aee9-38e73e832e21"><img src="assets/credential-agentic-workflows.png" alt="Building AI Agents and Agentic Workflows Specialization" width="105" /><br /><strong>Building AI Agents and Agentic Workflows Specialization</strong></a><br /><sub>IBM · Coursera · 27 ago 2026</sub></td>
+</tr>
+<tr>
+<td align="center" width="33%"><a href="https://www.credly.com/badges/5c376cfb-5b16-4902-85e7-1d450603060d"><img src="assets/credential-multimodal-ai.png" alt="Build Multimodal Generative AI Applications" width="105" /><br /><strong>Build Multimodal Generative AI Applications</strong></a><br /><sub>IBM · Coursera · 27 ago 2026</sub></td>
+<td align="center" width="33%"><a href="https://www.credly.com/badges/a544a088-6bc7-4713-b3fb-a6b8244dbda2"><img src="assets/credential-rag-applications.png" alt="RAG for Generative AI Applications Specialization" width="105" /><br /><strong>RAG for Generative AI Applications Specialization</strong></a><br /><sub>IBM · Coursera · 27 ago 2026</sub></td>
+<td align="center" width="33%"><a href="https://www.credly.com/badges/afbbb50d-3af3-4f1a-b9a6-2970b3e1bca9"><img src="assets/credential-advanced-rag.png" alt="Advanced RAG with Vector Databases and Retrievers" width="105" /><br /><strong>Advanced RAG with Vector Databases and Retrievers</strong></a><br /><sub>IBM · Coursera · 27 ago 2026</sub></td>
+</tr>
+</table>
+
+Cada badge abre sua página pública de verificação.
+
 <details>
 <summary><strong>Formação e credenciais</strong></summary>
 

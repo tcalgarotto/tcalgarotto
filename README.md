@@ -22,9 +22,13 @@ Uma plataforma para descobrir telas, escolher onde anunciar e organizar campanha
 
 <br>
 
-#### [OrtoClean ↗](https://ortoclean.com/login)
+#### [OrtoClean ↗](https://ortoclean.duckdns.org/login)
 
-**[Acesse o OrtoClean →](https://ortoclean.com/login)**
+**Gestão da clínica em um só lugar.**
+
+Pacientes, agenda, financeiro e indicadores reunidos em uma experiência web. Um projeto voltado à rotina da clínica, com organização das informações e acesso por perfil.
+
+**[Acesse o OrtoClean →](https://ortoclean.duckdns.org/login)**
 
 <br>
 

@@ -5,17 +5,6 @@
   </picture>
 </a>
 
-### Credenciais em destaque
-
-<p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/specialization/TBLJ0PQF1DGQ"><img src="assets/badge-ibm-rag-agentic.png" alt="IBM RAG and Agentic AI Professional Certificate" width="110" /></a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/O7S722GGTAOK"><img src="assets/badge-google-python.png" alt="Google IT Automation with Python Certificate" width="110" /></a>
-</p>
-
-[IBM RAG e Agentic AI](https://www.coursera.org/account/accomplishments/specialization/TBLJ0PQF1DGQ) · [Google IT Automation with Python](https://www.coursera.org/account/accomplishments/specialization/O7S722GGTAOK)
-
-
-
 ### Curiosidade para começar. Persistência para entregar.
 
 Sou **Thales Calgarotto**. Gosto de entender como as coisas funcionam — e de construir coisas que funcionem para alguém.
@@ -66,40 +55,22 @@ Trabalho com **TypeScript, Python, aplicações web, APIs, dados, automação e 
 
 <br>
 
-### Aprendizado que vira prática
-
-Continuo estudando e trazendo esse aprendizado para os projetos.
-
-**Agentes, RAG e IA generativa — credenciais verificáveis no Credly.**
+### Certificações
 
 <table>
 <tr>
-<td align="center" width="33%"><a href="https://www.credly.com/badges/2517e0cd-b82a-4d91-a8ce-118a3ab8d623"><img src="assets/credential-agentic-langchain-langgraph.png" alt="Agentic AI with LangChain and LangGraph" width="105" /><br /><strong>Agentic AI with LangChain and LangGraph</strong></a><br /><sub>IBM · Coursera · 27 ago 2026</sub></td>
-<td align="center" width="33%"><a href="https://www.credly.com/badges/00885239-67e9-44b8-8aea-a4762a51d0a8"><img src="assets/credential-agents-mcp.png" alt="Build AI Agents Using MCP" width="105" /><br /><strong>Build AI Agents Using MCP</strong></a><br /><sub>IBM · Coursera · 27 ago 2026</sub></td>
-<td align="center" width="33%"><a href="https://www.credly.com/badges/b7f819d9-feb2-4109-aee9-38e73e832e21"><img src="assets/credential-agentic-workflows.png" alt="Building AI Agents and Agentic Workflows Specialization" width="105" /><br /><strong>Building AI Agents and Agentic Workflows Specialization</strong></a><br /><sub>IBM · Coursera · 27 ago 2026</sub></td>
+<td align="center" width="25%"><a href="https://www.coursera.org/account/accomplishments/specialization/TBLJ0PQF1DGQ" title="IBM RAG and Agentic AI"><img src="assets/badge-ibm-rag-agentic.png?v=98ab0de85b09" alt="IBM RAG and Agentic AI" width="100" /><br />IBM RAG &amp; Agentic AI</a></td>
+<td align="center" width="25%"><a href="https://www.coursera.org/account/accomplishments/specialization/O7S722GGTAOK" title="Google IT Automation with Python"><img src="assets/badge-google-python.png?v=a7e88d919acc" alt="Google IT Automation with Python" width="100" /><br />Google IT Automation with Python</a></td>
+<td align="center" width="25%"><a href="https://www.credly.com/badges/2517e0cd-b82a-4d91-a8ce-118a3ab8d623" title="Agentic AI with LangChain and LangGraph"><img src="assets/credential-agentic-langchain-langgraph.png?v=7dbdae5413db" alt="Agentic AI with LangChain and LangGraph" width="100" /><br />Agentic AI with LangChain &amp; LangGraph</a></td>
+<td align="center" width="25%"><a href="https://www.credly.com/badges/00885239-67e9-44b8-8aea-a4762a51d0a8" title="Build AI Agents Using MCP"><img src="assets/credential-agents-mcp.png?v=f6f2afa00a3b" alt="Build AI Agents Using MCP" width="100" /><br />Build AI Agents Using MCP</a></td>
 </tr>
 <tr>
-<td align="center" width="33%"><a href="https://www.credly.com/badges/5c376cfb-5b16-4902-85e7-1d450603060d"><img src="assets/credential-multimodal-ai.png" alt="Build Multimodal Generative AI Applications" width="105" /><br /><strong>Build Multimodal Generative AI Applications</strong></a><br /><sub>IBM · Coursera · 27 ago 2026</sub></td>
-<td align="center" width="33%"><a href="https://www.credly.com/badges/a544a088-6bc7-4713-b3fb-a6b8244dbda2"><img src="assets/credential-rag-applications.png" alt="RAG for Generative AI Applications Specialization" width="105" /><br /><strong>RAG for Generative AI Applications Specialization</strong></a><br /><sub>IBM · Coursera · 27 ago 2026</sub></td>
-<td align="center" width="33%"><a href="https://www.credly.com/badges/afbbb50d-3af3-4f1a-b9a6-2970b3e1bca9"><img src="assets/credential-advanced-rag.png" alt="Advanced RAG with Vector Databases and Retrievers" width="105" /><br /><strong>Advanced RAG with Vector Databases and Retrievers</strong></a><br /><sub>IBM · Coursera · 27 ago 2026</sub></td>
+<td align="center" width="25%"><a href="https://www.credly.com/badges/b7f819d9-feb2-4109-aee9-38e73e832e21" title="Building AI Agents and Agentic Workflows Specialization"><img src="assets/credential-agentic-workflows.png?v=a728d0040cf2" alt="Building AI Agents and Agentic Workflows Specialization" width="100" /><br />Building AI Agents &amp; Agentic Workflows</a></td>
+<td align="center" width="25%"><a href="https://www.credly.com/badges/5c376cfb-5b16-4902-85e7-1d450603060d" title="Build Multimodal Generative AI Applications"><img src="assets/credential-multimodal-ai.png?v=34299bdcfb94" alt="Build Multimodal Generative AI Applications" width="100" /><br />Build Multimodal Generative AI Applications</a></td>
+<td align="center" width="25%"><a href="https://www.credly.com/badges/a544a088-6bc7-4713-b3fb-a6b8244dbda2" title="RAG for Generative AI Applications Specialization"><img src="assets/credential-rag-applications.png?v=425c0b74a51f" alt="RAG for Generative AI Applications Specialization" width="100" /><br />RAG for Generative AI Applications</a></td>
+<td align="center" width="25%"><a href="https://www.credly.com/badges/afbbb50d-3af3-4f1a-b9a6-2970b3e1bca9" title="Advanced RAG with Vector Databases and Retrievers"><img src="assets/credential-advanced-rag.png?v=550490587aef" alt="Advanced RAG with Vector Databases and Retrievers" width="100" /><br />Advanced RAG with Vector Databases &amp; Retrievers</a></td>
 </tr>
 </table>
-
-Cada badge abre sua página pública de verificação.
-
-<details>
-<summary><strong>Formação e credenciais</strong></summary>
-
-<br>
-
-- **IBM — RAG and Agentic AI** · Especialização · 26 ago 2026 · [Credencial](https://www.coursera.org/account/accomplishments/specialization/TBLJ0PQF1DGQ)
-- **Google — IT Automation with Python** · Certificado profissional · 22 jul 2026 · [Credencial](https://www.coursera.org/account/accomplishments/specialization/O7S722GGTAOK)
-
-Formações concluídas pelo Coursera.
-
-</details>
-
-<br>
 
 **Código com intenção. Cuidado em cada etapa.**
 

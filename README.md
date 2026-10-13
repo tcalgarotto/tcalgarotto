@@ -1,4 +1,22 @@
-<img src="assets/profile-cover.png" alt="Thales Calgarotto — código com intenção. Software, automação e IA aplicada." width="100%" />
+<a href="https://tcalgarotto.github.io/">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/profile-hero-44-light.png" />
+    <img src="assets/profile-hero-44-dark.png" alt="Olá, eu sou Thales Calgarotto. Software, automação e IA. Crachá com meu monograma." width="100%" />
+  </picture>
+</a>
+
+### Credenciais em destaque
+
+<p align="center">
+  <a href="https://www.credly.com/badges/2f0b9603-0b14-4795-9fbd-ba96c850fca0"><img src="assets/badge-ibm-rag-agentic.png" alt="IBM RAG and Agentic AI Professional Certificate V3" width="110" /></a>
+  <a href="https://www.credly.com/badges/daea56c7-4d78-4d83-9213-f5bb58536e2b"><img src="assets/badge-google-python.png" alt="Google IT Automation with Python Professional Certificate(v.1)" width="110" /></a>
+  <a href="https://www.credly.com/badges/00885239-67e9-44b8-8aea-a4762a51d0a8"><img src="assets/badge-ibm-mcp.png" alt="Build AI Agents Using MCP" width="110" /></a>
+</p>
+
+[IBM RAG e Agentic AI](https://www.credly.com/badges/2f0b9603-0b14-4795-9fbd-ba96c850fca0) · [Google IT Automation with Python](https://www.credly.com/badges/daea56c7-4d78-4d83-9213-f5bb58536e2b) · [Agentes com MCP](https://www.credly.com/badges/00885239-67e9-44b8-8aea-a4762a51d0a8)
+
+**[Confira minha carteira de badges no Credly →](https://www.credly.com/users/thales-calgarotto/badges/credly)**
+
 
 ### Curiosidade para começar. Persistência para entregar.
 
@@ -12,15 +30,21 @@ Aprender, construir, testar e refinar fazem parte do mesmo trabalho.
 
 ### Projetos que dão forma a esse trabalho
 
+[![Preview do DuckDooh](assets/duckdooh-preview.webp)](https://duckdooh.com/)
+
 #### [DuckDooh ↗](https://duckdooh.com/)
 
 **Mídia exterior digital, com uma experiência de compra pela web.**
 
 Uma plataforma para descobrir telas, escolher onde anunciar e organizar campanhas. O projeto conecta uma experiência digital ao mundo físico: a marca sai da tela do computador e chega aos pontos de exibição.
 
-**[Conheça o DuckDooh →](https://duckdooh.com/)**
+**Como foi feito:** interface em Next.js e TypeScript, API em Python/FastAPI e dados em PostgreSQL. Asaas e Yodeck conectam contratação, pagamento e veiculação.
+
+**[Acesse e teste o DuckDooh →](https://duckdooh.com/)**
 
 <br>
+
+[![Preview da OrtoClean](assets/ortoclean-preview.webp)](https://ortoclean.duckdns.org/login-teste)
 
 #### [OrtoClean ↗](https://ortoclean.duckdns.org/login-teste)
 
@@ -28,7 +52,9 @@ Uma plataforma para descobrir telas, escolher onde anunciar e organizar campanha
 
 Pacientes, agenda, financeiro e indicadores reunidos em uma experiência web. Um projeto voltado à rotina da clínica, com organização das informações e acesso por perfil.
 
-**[Acesse o OrtoClean →](https://ortoclean.duckdns.org/login-teste)**
+**Como foi feito:** API em Fastify e TypeScript, persistência em PostgreSQL e implantação com Docker. Módulos por clínica e integração do CRM com um serviço de WhatsApp separado.
+
+**[Acesse e teste o OrtoClean →](https://ortoclean.duckdns.org/login-teste)**
 
 <br>
 
@@ -62,3 +88,5 @@ Formações concluídas pelo Coursera.
 <br>
 
 **Código com intenção. Cuidado em cada etapa.**
+
+**[Explore meu portfólio →](https://tcalgarotto.github.io/)** · [Projects & credentials in English](https://tcalgarotto.github.io/?lang=en)

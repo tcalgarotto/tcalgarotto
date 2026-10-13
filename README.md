@@ -1,8 +1,5 @@
 <a href="https://tcalgarotto.github.io/">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="assets/profile-hero-44-light.png" />
-    <img src="assets/profile-hero-44-dark.png" alt="Olá, eu sou Thales Calgarotto. Software, automação e IA. Crachá com meu monograma." width="100%" />
-  </picture>
+  <img src="assets/profile-hero-site.png" alt="Olá, eu sou Thales Calgarotto. Software, automação e IA. Crachá com meu monograma." width="100%" />
 </a>
 
 ### Curiosidade para começar. Persistência para entregar.

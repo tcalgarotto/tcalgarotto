@@ -1,51 +1,70 @@
-<a href="https://tcalgarotto.github.io/">
-  <img src="assets/profile-cover.png" alt="Thales Calgarotto. Software, automação e inteligência artificial aplicada." width="100%" />
-</a>
+<img src="assets/profile-cover.png" alt="Thales Calgarotto — código com intenção. Software, automação e IA aplicada." width="100%" />
 
-### Código com intenção.
+### Curiosidade para começar. Persistência para entregar.
 
-Sou **Thales Calgarotto**. Construo produtos digitais, automatizo processos e conecto inteligência artificial a problemas reais.
+Sou **Thales Calgarotto**. Gosto de entender como as coisas funcionam — e de construir coisas que funcionem para alguém.
 
-Trabalho com **TypeScript, Python, aplicações web e mobile, recuperação de contexto e agentes de IA**. Os projetos abaixo mostram como essas peças se conectam.
+Meu trabalho conecta **desenvolvimento de produtos, automação e inteligência artificial aplicada**. Da primeira ideia aos detalhes da experiência, procuro fazer as peças se encaixarem: interface, lógica, dados e o problema que motivou tudo isso.
 
-**[Explore meu portfólio →](https://tcalgarotto.github.io/)** · [Projects, credentials & more in English](https://tcalgarotto.github.io/?lang=en)
+Aprender, construir, testar e refinar fazem parte do mesmo trabalho.
 
 <br>
 
-### Projetos em destaque
+### Projetos que dão forma a esse trabalho
 
-**[JustOS / Lex](https://github.com/tcalgarotto/Lex)**<br>
-Software jurídico que conecta casos, documentos e pesquisa assistida por IA, com revisão humana no fluxo.<br>
-`Next.js` `TypeScript` `PostgreSQL` `Qdrant`
+#### [DuckDooh ↗](https://duckdooh.com/)
 
-**[Lucy / loop-master](https://github.com/tcalgarotto/loop-master)**<br>
-Orquestração de agentes no Cursor: planejamento por fases, memória entre sessões e ciclos de implementação e verificação.<br>
-`Agent workflows` `Cursor` `MCP`
+**Mídia exterior digital, com uma experiência de compra pela web.**
 
-**[TeleMed](https://github.com/tcalgarotto/telemed)**<br>
-Plataforma de telemedicina por assinatura com aplicativo mobile e API em um monorepo TypeScript.<br>
-`React Native` `Expo` `Next.js` `Supabase`
+Uma plataforma para descobrir telas, escolher onde anunciar e organizar campanhas. O projeto conecta uma experiência digital ao mundo físico: a marca sai da tela do computador e chega aos pontos de exibição.
+
+**[Conheça o DuckDooh →](https://duckdooh.com/)**
 
 <br>
 
-### Formação com credenciais verificáveis
+#### [OrtoClean ↗](https://ortoclean.com/login)
 
-| Formação | Instituição | Conclusão | Credencial |
-| :--- | :--- | :--- | :--- |
-| IBM RAG and Agentic AI | IBM | 26 ago 2026 | [Verificar](https://www.coursera.org/account/accomplishments/specialization/TBLJ0PQF1DGQ) |
-| Google IT Automation with Python | Google | 22 jul 2026 | [Verificar](https://www.coursera.org/account/accomplishments/specialization/O7S722GGTAOK) |
-| Social Computing | Johns Hopkins University | 22 jul 2026 | [Verificar](https://www.coursera.org/account/accomplishments/specialization/ZEYD9IMM47R9) |
-
-Formações concluídas no **Coursera**, em meu nome. IBM e Johns Hopkins são especializações; Google IT Automation with Python é um certificado profissional.
+**[Acesse o OrtoClean →](https://ortoclean.com/login)**
 
 <br>
 
-### Como as peças se conectam
+#### [Lucy / loop-master ↗](https://github.com/tcalgarotto/loop-master)
 
-- **Produto:** interfaces web e mobile conectadas a APIs e dados.
-- **IA aplicada:** pesquisa com contexto, agentes e integração de ferramentas.
-- **Automação:** Python, Git e processos que reduzem trabalho repetitivo.
+**Ferramentas para organizar o desenvolvimento com agentes de IA.**
+
+Planejamento por fases, memória entre sessões e ciclos de implementação e verificação. Um projeto voltado ao próprio processo de construir software.
+
+**[Explore o repositório →](https://github.com/tcalgarotto/loop-master)**
 
 <br>
 
-**[Conheça os projetos, explore a arquitetura e confira as certificações no portfólio →](https://tcalgarotto.github.io/)**
+### O cuidado por trás da entrega
+
+- **Entender antes de implementar.** Investigar o problema e o contexto de quem vai usar.
+- **Construir e verificar.** Testar caminhos, revisar decisões e cuidar dos detalhes.
+- **Continuar evoluindo.** Aprender com o uso e voltar ao que pode ficar mais claro, simples e confiável.
+
+Trabalho com **TypeScript, Python, aplicações web, APIs, dados, automação e agentes de IA**. Escolho as ferramentas a partir do que o projeto pede.
+
+<br>
+
+### Aprendizado que vira prática
+
+Continuo estudando e trazendo esse aprendizado para os projetos.
+
+<details>
+<summary><strong>Formação e credenciais</strong></summary>
+
+<br>
+
+- **IBM — RAG and Agentic AI** · Especialização · 26 ago 2026 · [Credencial](https://www.coursera.org/account/accomplishments/specialization/TBLJ0PQF1DGQ)
+- **Google — IT Automation with Python** · Certificado profissional · 22 jul 2026 · [Credencial](https://www.coursera.org/account/accomplishments/specialization/O7S722GGTAOK)
+- **Johns Hopkins University — Social Computing** · Especialização · 22 jul 2026 · [Credencial](https://www.coursera.org/account/accomplishments/specialization/ZEYD9IMM47R9)
+
+Formações concluídas pelo Coursera.
+
+</details>
+
+<br>
+
+**Código com intenção. Cuidado em cada etapa.**

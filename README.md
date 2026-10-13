@@ -32,16 +32,6 @@ Pacientes, agenda, financeiro e indicadores reunidos em uma experiência web. Um
 
 <br>
 
-#### [Lucy / loop-master ↗](https://github.com/tcalgarotto/loop-master)
-
-**Ferramentas para organizar o desenvolvimento com agentes de IA.**
-
-Planejamento por fases, memória entre sessões e ciclos de implementação e verificação. Um projeto voltado ao próprio processo de construir software.
-
-**[Explore o repositório →](https://github.com/tcalgarotto/loop-master)**
-
-<br>
-
 ### O cuidado por trás da entrega
 
 - **Entender antes de implementar.** Investigar o problema e o contexto de quem vai usar.

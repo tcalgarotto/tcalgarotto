@@ -8,14 +8,12 @@
 ### Credenciais em destaque
 
 <p align="center">
-  <a href="https://www.credly.com/badges/2f0b9603-0b14-4795-9fbd-ba96c850fca0"><img src="assets/badge-ibm-rag-agentic.png" alt="IBM RAG and Agentic AI Professional Certificate V3" width="110" /></a>
-  <a href="https://www.credly.com/badges/daea56c7-4d78-4d83-9213-f5bb58536e2b"><img src="assets/badge-google-python.png" alt="Google IT Automation with Python Professional Certificate(v.1)" width="110" /></a>
-  <a href="https://www.credly.com/badges/00885239-67e9-44b8-8aea-a4762a51d0a8"><img src="assets/badge-ibm-mcp.png" alt="Build AI Agents Using MCP" width="110" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/TBLJ0PQF1DGQ"><img src="assets/badge-ibm-rag-agentic.png" alt="IBM RAG and Agentic AI Professional Certificate" width="110" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/O7S722GGTAOK"><img src="assets/badge-google-python.png" alt="Google IT Automation with Python Certificate" width="110" /></a>
 </p>
 
-[IBM RAG e Agentic AI](https://www.credly.com/badges/2f0b9603-0b14-4795-9fbd-ba96c850fca0) · [Google IT Automation with Python](https://www.credly.com/badges/daea56c7-4d78-4d83-9213-f5bb58536e2b) · [Agentes com MCP](https://www.credly.com/badges/00885239-67e9-44b8-8aea-a4762a51d0a8)
+[IBM RAG e Agentic AI](https://www.coursera.org/account/accomplishments/specialization/TBLJ0PQF1DGQ) · [Google IT Automation with Python](https://www.coursera.org/account/accomplishments/specialization/O7S722GGTAOK)
 
-**[Confira minha carteira de badges no Credly →](https://www.credly.com/users/thales-calgarotto/badges/credly)**
 
 
 ### Curiosidade para começar. Persistência para entregar.
@@ -79,7 +77,6 @@ Continuo estudando e trazendo esse aprendizado para os projetos.
 
 - **IBM — RAG and Agentic AI** · Especialização · 26 ago 2026 · [Credencial](https://www.coursera.org/account/accomplishments/specialization/TBLJ0PQF1DGQ)
 - **Google — IT Automation with Python** · Certificado profissional · 22 jul 2026 · [Credencial](https://www.coursera.org/account/accomplishments/specialization/O7S722GGTAOK)
-- **Johns Hopkins University — Social Computing** · Especialização · 22 jul 2026 · [Credencial](https://www.coursera.org/account/accomplishments/specialization/ZEYD9IMM47R9)
 
 Formações concluídas pelo Coursera.
 
